@@ -59,5 +59,3 @@ Proje ile ilgili geliştirme yapmak isterseniz, pull request gönderebilir veya 
 ## Lisans
 Bu proje MIT lisansı ile lisanslanmıştır.
 
-
->>>>>>> e45d6c1 (🌦️ Initial commit: Responsive weather app with custom hooks & location-based data)
