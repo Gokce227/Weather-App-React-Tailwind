@@ -4,8 +4,8 @@ Weather-App-React-Tailwind-Geolacation
 
 # Weather App
 
-![Aratma](./src/weather-app/src/assets/search.png)
-![Hava Durum Detayi](./src/weather-app/src/assets/weatherDeatils.png)
+![Aratma](./src/assets/search.png)
+![Hava Durum Detayi](./src/assets/weatherDeatils.png)
 
 
 Bu proje, React ile geliştirilmiş bir hava durumu uygulamasıdır. Kullanıcının konumuna bağlı olarak gerçek zamanlı hava durumu verilerini çeker ve görüntüler. Uygulama responsive yapıya sahiptir ve custom hooks kullanılarak daha modüler bir kod yapısı oluşturulmuştur.
